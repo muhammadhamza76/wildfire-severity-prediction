@@ -1,0 +1,10 @@
+*.csv
+*.zip
+*.gz
+*.sqlite
+data/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
